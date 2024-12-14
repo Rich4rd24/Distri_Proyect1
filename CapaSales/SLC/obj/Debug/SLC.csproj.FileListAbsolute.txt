@@ -1,0 +1,41 @@
+C:\Users\Sebastian\source\repos\CapaSales\SLC\bin\Debug\SLC.dll
+C:\Users\Sebastian\source\repos\CapaSales\SLC\bin\Debug\SLC.pdb
+C:\Users\Sebastian\source\repos\CapaSales\SLC\bin\Debug\Entities.dll
+C:\Users\Sebastian\source\repos\CapaSales\SLC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sebastian\source\repos\CapaSales\SLC\bin\Debug\Entities.pdb
+C:\Users\Sebastian\source\repos\CapaSales\SLC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sebastian\source\repos\CapaSales\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\Sebastian\source\repos\CapaSales\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\CapaSales\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\Sebastian\source\repos\CapaSales\SLC\obj\Debug\SLC.dll
+C:\Users\Sebastian\source\repos\CapaSales\SLC\obj\Debug\SLC.pdb
+C:\Users\aange\Pictures\CapaSales\CapaSales\SLC\bin\Debug\SLC.dll
+C:\Users\aange\Pictures\CapaSales\CapaSales\SLC\bin\Debug\SLC.pdb
+C:\Users\aange\Pictures\CapaSales\CapaSales\SLC\bin\Debug\Entities.dll
+C:\Users\aange\Pictures\CapaSales\CapaSales\SLC\bin\Debug\Entities.pdb
+C:\Users\aange\Pictures\CapaSales\CapaSales\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\aange\Pictures\CapaSales\CapaSales\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\aange\Pictures\CapaSales\CapaSales\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\aange\Pictures\CapaSales\CapaSales\SLC\obj\Debug\SLC.dll
+C:\Users\aange\Pictures\CapaSales\CapaSales\SLC\obj\Debug\SLC.pdb
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\SLC.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\SLC.pdb
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\Entities.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\System.Buffers.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\System.Memory.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\Entities.pdb
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\System.Buffers.xml
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\System.Memory.xml
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\obj\Debug\SLC.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\obj\Debug\SLC.pdb
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\SLC\bin\Debug\Newtonsoft.Json.xml

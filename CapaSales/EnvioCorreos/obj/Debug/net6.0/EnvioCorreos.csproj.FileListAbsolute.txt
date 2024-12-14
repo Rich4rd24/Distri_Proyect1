@@ -1,0 +1,107 @@
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\appsettings.json
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.exe
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.deps.json
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.runtimeconfig.json
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.dll
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.pdb
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.csproj.AssemblyReference.cache
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.AssemblyInfoInputs.cache
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.AssemblyInfo.cs
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.csproj.CoreCompileInputs.cache
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.sourcelink.json
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.EnvioCorreos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.build.EnvioCorreos.props
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnvioCorreos.props
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EnvioCorreos.props
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\scopedcss\bundle\EnvioCorreos.styles.css
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCor.0FE00C08.Up2Date
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.dll
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\refint\EnvioCorreos.dll
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.pdb
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.genruntimeconfig.cache
+C:\Users\aange\Videos\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\ref\EnvioCorreos.dll
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\appsettings.Development.json
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\appsettings.json
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.staticwebassets.endpoints.json
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.exe
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.deps.json
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.runtimeconfig.json
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.dll
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.pdb
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.csproj.AssemblyReference.cache
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.GeneratedMSBuildEditorConfig.editorconfig
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.AssemblyInfoInputs.cache
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.AssemblyInfo.cs
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.csproj.CoreCompileInputs.cache
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.MvcApplicationPartsAssemblyInfo.cs
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.MvcApplicationPartsAssemblyInfo.cache
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.sourcelink.json
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\scopedcss\bundle\EnvioCorreos.styles.css
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.build.json
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.development.json
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.EnvioCorreos.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.EnvioCorreos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.build.EnvioCorreos.props
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnvioCorreos.props
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EnvioCorreos.props
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.pack.json
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCor.0FE00C08.Up2Date
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.dll
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\refint\EnvioCorreos.dll
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.pdb
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.genruntimeconfig.cache
+D:\AplicacionesDistribuidas\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\ref\EnvioCorreos.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.staticwebassets.endpoints.json
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.exe
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.deps.json
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.runtimeconfig.json
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\EnvioCorreos.pdb
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.csproj.AssemblyReference.cache
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.AssemblyInfoInputs.cache
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.AssemblyInfo.cs
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.sourcelink.json
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\scopedcss\bundle\EnvioCorreos.styles.css
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.EnvioCorreos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.EnvioCorreos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.build.EnvioCorreos.props
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnvioCorreos.props
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EnvioCorreos.props
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCor.0FE00C08.Up2Date
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\refint\EnvioCorreos.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.pdb
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\EnvioCorreos.genruntimeconfig.cache
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\EnvioCorreos\obj\Debug\net6.0\ref\EnvioCorreos.dll

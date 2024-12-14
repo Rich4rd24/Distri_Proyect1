@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Service\\Service.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FrontendApp\\FrontendApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EnvioCorreos\\EnvioCorreos.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

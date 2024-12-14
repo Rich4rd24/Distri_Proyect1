@@ -1,0 +1,37 @@
+C:\Users\Sebastian\source\repos\CapaSales\Entities\bin\Debug\Entities.dll
+C:\Users\Sebastian\source\repos\CapaSales\Entities\bin\Debug\Entities.pdb
+C:\Users\Sebastian\source\repos\CapaSales\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sebastian\source\repos\CapaSales\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sebastian\source\repos\CapaSales\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\Sebastian\source\repos\CapaSales\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\CapaSales\Entities\obj\Debug\Entities.csproj.Up2Date
+C:\Users\Sebastian\source\repos\CapaSales\Entities\obj\Debug\Entities.dll
+C:\Users\Sebastian\source\repos\CapaSales\Entities\obj\Debug\Entities.pdb
+C:\Users\aange\Pictures\CapaSales\CapaSales\Entities\bin\Debug\Entities.dll
+C:\Users\aange\Pictures\CapaSales\CapaSales\Entities\bin\Debug\Entities.pdb
+C:\Users\aange\Pictures\CapaSales\CapaSales\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aange\Pictures\CapaSales\CapaSales\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aange\Pictures\CapaSales\CapaSales\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\aange\Pictures\CapaSales\CapaSales\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\aange\Pictures\CapaSales\CapaSales\Entities\obj\Debug\Entities.csproj.Up2Date
+C:\Users\aange\Pictures\CapaSales\CapaSales\Entities\obj\Debug\Entities.dll
+C:\Users\aange\Pictures\CapaSales\CapaSales\Entities\obj\Debug\Entities.pdb
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\Entities.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\Entities.pdb
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\System.Buffers.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\System.Memory.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\System.Buffers.xml
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\System.Memory.xml
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\obj\Debug\Entities.csproj.Up2Date
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\obj\Debug\Entities.dll
+C:\Users\USER\Proyectos Visual Studio Code\AplicacionesDistribuidas\AplicacionesDistribuidas\Proyecto1\CapaSales\Entities\obj\Debug\Entities.pdb
